@@ -3,10 +3,12 @@ A python API for the game Minecraft.
 
 
 **Installation**
-`import simplemc`
+
+  `import simplemc`
 
 **Docs**
-Coming soon.
+  
+  Coming soon.
 
 **Example**
 ```python
@@ -17,4 +19,4 @@ from simplemc import Users
 user = Users.check("74a202a4eb21470fb5a63a0c985b0ddc") # Add any UUID.
 print(user)
 
-# Check if a user exists by uuid.```
+# Check if a user exists by uuid.
