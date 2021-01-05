@@ -1,1 +1,1 @@
-run = "python i.py"
+run = "python check.py"

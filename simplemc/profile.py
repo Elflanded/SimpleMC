@@ -1,5 +1,5 @@
 import json
-from minecraftapi.core.https import Http
+from simplemc.utils.https import Http
 
 class Users:
     def check(uuid):
@@ -10,5 +10,3 @@ class Users:
             return True
         else:
             return False
-
-
