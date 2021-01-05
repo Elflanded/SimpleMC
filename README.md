@@ -4,7 +4,7 @@ A python API for the game Minecraft.
 
 **Installation**
 
-  `import simplemc`
+  `pip install simplemc`
 
 **Docs**
   
