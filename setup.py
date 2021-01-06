@@ -21,4 +21,3 @@ setuptools.setup(
     python_requires='>=3.6',
 )
 
-# pypi-AgENdGVzdC5weXBpLm9yZwIkMDk5MGRhMjEtMjM2OS00MDdkLWI3OWYtZmYwMjBjODEwZjRhAAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiBidtqRrZXJmLXAQnJKBTrvNzbO_LSctsftbFQct_YNYQ
